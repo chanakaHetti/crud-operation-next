@@ -2,6 +2,7 @@
 
 This is a NextJS application with proper handling caching.
 
+- create a next app - `npx create-next-app@latest`
 - run developement application - `npm run dev`
 - build the application - `npm run build`
 - run built application - `npm run start`
