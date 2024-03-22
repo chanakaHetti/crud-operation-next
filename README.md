@@ -2,9 +2,9 @@
 
 This is a NextJS application with proper handling caching.
 
-run developement application - `npm run dev`
-build the application - `npm run build`
-run built application - `npm run start`
+- run developement application - `npm run dev`
+- build the application - `npm run build`
+- run built application - `npm run start`
 
 ---
 
