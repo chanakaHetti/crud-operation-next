@@ -1,4 +1,4 @@
-# NextJS 14 - Practice
+# NextJS 14 - Practice with caching
 
 This is a NextJS application with proper handling caching.
 
